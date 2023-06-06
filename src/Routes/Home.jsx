@@ -1,9 +1,14 @@
-import React from 'react'
+import React from 'react';
 
-const Home = () => {
+function Home() {
   return (
-    <div id="home">Home</div>
-  )
+    <section id="home">
+      <div className="container">
+        <h1>Welcome to My Portfolio</h1>
+        <img src='https://avatars.githubusercontent.com/u/119405556?v=4' alt="Professional Photo" className="home-img" />
+      </div>
+    </section>
+  );
 }
 
-export default Home
+export default Home;

@@ -1,9 +1,14 @@
-import React from 'react'
+import React from 'react';
 
-const About = () => {
+function About() {
   return (
-    <div id="about" class="about section">About</div>
-  )
+    <section id="about" className="about section">
+      <div className="container">
+        <h2>About Me</h2>
+        <p id="user-detail-intro">Formal introduction goes here</p>
+      </div>
+    </section>
+  );
 }
 
-export default About
+export default About;

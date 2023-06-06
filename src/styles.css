@@ -1,0 +1,132 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1, h2, h3 {
+    margin: 0;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  /* Navbar Styles */
+  #nav-menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    background-color: #333;
+  }
+  
+  #nav-menu ul li {
+    margin: 0 10px;
+  }
+  
+  #nav-menu ul li a {
+    color: #fff;
+    padding: 10px;
+  }
+  
+  /* Home Section Styles */
+  #home {
+    background-color: #f2f2f2;
+    padding: 40px;
+    text-align: center;
+  }
+  
+  .home-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 20px auto;
+  }
+  
+  /* About Section Styles */
+  #about {
+    background-color: #fff;
+    padding: 40px;
+  }
+  
+  .about.section {
+    background-color: #f2f2f2;
+  }
+  
+  /* Skills Section Styles */
+  #skills {
+    background-color: #f2f2f2;
+    padding: 40px;
+  }
+  
+  .skills-card {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .skills-card-img {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+  }
+  
+  /* Projects Section Styles */
+  #projects {
+    background-color: #fff;
+    padding: 40px;
+  }
+  
+  .project-card {
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .project-card img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .project-title {
+    margin-top: 10px;
+  }
+  
+  .project-description {
+    color: #555;
+    margin-bottom: 10px;
+  }
+  
+  .project-tech-stack {
+    margin-bottom: 10px;
+  }
+  
+  .project-github-link,
+  .project-deployed-link {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  /* Contact Section Styles */
+  #contact {
+    background-color: #f2f2f2;
+    padding: 40px;
+    text-align: center;
+  }
+  
+  #contact-github,
+  #contact-linkedin,
+  #contact-phone,
+  #contact-email {
+    margin-bottom: 10px;
+  }
+  
+  
