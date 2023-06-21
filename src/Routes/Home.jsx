@@ -7,6 +7,7 @@ const Home = () => {
   return (
     <div
       name="home"
+      id="home"
       className="w-full h-screen bg-gradient-to-b from-black via-black to-gray-800"
     >
       <div className=" max-w-screen-lg mx-auto flex flex-col md:flex-row items-center justify-center h-full px-4">
@@ -20,14 +21,14 @@ const Home = () => {
             temporibus, asperiores expedita. Voluptate quibusdam aliquam
             deserunt cupiditate vitae amet eos?
           </p>
-          <div>
+          <div className="flex">
             <Link
-              to="portfolio"
+              to="projects"
               smooth
               duration={500}
-              className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer"
+              className="group text-white w-fit px-6 py-3 my-2 flex items-center mr-40 rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer"
             >
-              Portfolio
+              Projects
               <span className="group-hover:rotate-90 duration-300">
                 <HiArrowNarrowRight className="ml-1" />
               </span>
@@ -38,7 +39,7 @@ const Home = () => {
           <img
             src={image}
             alt="my profile"
-            className="rounded-2xl mx-auto w-2/3 md:w-full hero-img"
+            className="rounded-2xl mx-auto w-2/3 md:w-full home-img"
           />
         </div>
       </div>

@@ -8,7 +8,12 @@
 // import './styles.css';
 
 import Navbar from "./Components/Navbar";
+import About from "./Routes/About";
+import Contact from "./Routes/Contact";
 import Home from "./Routes/Home";
+import Projects from "./Routes/Projects";
+import Skills from "./Routes/Skills";
+import SocialLinks from "./Routes/SocialLinks";
 
 function App() {
   return (
@@ -23,6 +28,11 @@ function App() {
     <div>
       <Navbar />
       <Home />
+      <About />
+      <Skills />
+      <Projects />
+      <Contact />
+      <SocialLinks/>
     </div>
   );
 }
