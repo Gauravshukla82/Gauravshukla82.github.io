@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.282b9fb6.css",
-    "main.js": "/static/js/main.4f4cd28b.js",
+    "main.css": "/static/css/main.6955cccf.css",
+    "main.js": "/static/js/main.37b6139c.js",
     "static/media/interviewBot.png": "/static/media/interviewBot.f59f08532b2697574946.png",
     "static/media/beFit.png": "/static/media/beFit.2c3b44ae01220f2e2cd4.png",
     "static/media/savariRide.png": "/static/media/savariRide.71c5e4cf726972b74593.png",
@@ -18,11 +18,11 @@
     "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
-    "main.282b9fb6.css.map": "/static/css/main.282b9fb6.css.map",
-    "main.4f4cd28b.js.map": "/static/js/main.4f4cd28b.js.map"
+    "main.6955cccf.css.map": "/static/css/main.6955cccf.css.map",
+    "main.37b6139c.js.map": "/static/js/main.37b6139c.js.map"
   },
   "entrypoints": [
-    "static/css/main.282b9fb6.css",
-    "static/js/main.4f4cd28b.js"
+    "static/css/main.6955cccf.css",
+    "static/js/main.37b6139c.js"
   ]
 }
