@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6955cccf.css",
-    "main.js": "/static/js/main.37b6139c.js",
+    "main.js": "/static/js/main.026e45ee.js",
     "static/media/interviewBot.png": "/static/media/interviewBot.f59f08532b2697574946.png",
     "static/media/beFit.png": "/static/media/beFit.2c3b44ae01220f2e2cd4.png",
     "static/media/savariRide.png": "/static/media/savariRide.71c5e4cf726972b74593.png",
@@ -11,6 +11,7 @@
     "static/media/image.png": "/static/media/image.7afdd6e3511f96c102c0.png",
     "static/media/graphql.png": "/static/media/graphql.fc6b9451733c620ceb86.png",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/nextjs.png": "/static/media/nextjs.48ddc8121a0fcb543d64.png",
     "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
     "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
@@ -19,10 +20,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.6955cccf.css.map": "/static/css/main.6955cccf.css.map",
-    "main.37b6139c.js.map": "/static/js/main.37b6139c.js.map"
+    "main.026e45ee.js.map": "/static/js/main.026e45ee.js.map"
   },
   "entrypoints": [
     "static/css/main.6955cccf.css",
-    "static/js/main.37b6139c.js"
+    "static/js/main.026e45ee.js"
   ]
 }
